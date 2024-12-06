@@ -9,5 +9,5 @@ no need for supports, has been tested at 100% infill but less is probably very p
 # Example Images
 
 ![Picture of 3D Model](https://github.com/CaliOn2/thinkpad_SL500_hddcaddy/edit/main/Media/3D_View.png)
-![Picture of 3Dprint](https://github.com/CaliOn2/thinkpad_SL500_hddcaddy/edit/main/Media/caddy_wout_hdd.png)
-![Picture of 3Dprint](https://github.com/CaliOn2/thinkpad_SL500_hddcaddy/edit/main/Media/folded_tab.png)
+![Picture of 3Dprint](https://github.com/CaliOn2/thinkpad_SL500_hddcaddy/edit/main/Media/caddy_wout_hdd.jpg)
+![Picture of 3Dprint](https://github.com/CaliOn2/thinkpad_SL500_hddcaddy/edit/main/Media/folded_tab.jpg)
